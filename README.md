@@ -14,7 +14,7 @@ Yb, `88       88           IP'`Yb IP'`Yb
  </pre>
      
  <pre>
-# 🌊 Currently desgining a internal company informational website for 10Bis!
+#  Currently desgining a internal company informational website for 10Bis!
 # 🏋️‍♂️ Working hard to master my Web Development skills via @Developer_Institue_IL
 </pre>
      
