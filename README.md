@@ -11,8 +11,8 @@ Yb, `88       88           IP'`Yb IP'`Yb
      
      
      
-### 🌊 Currently working on an internal company informational website for 10Bis!
-### 🏃‍♂️ On my journey to become a developer via @Developer_Institue_IL
+### 🌊 Currently desgining a internal company informational website for 10Bis!
+### 🏋️‍♂️ Working hard to master my Web Development skills via @Developer_Institue_IL
 
 <!--
 **MiniManch/MiniManch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
