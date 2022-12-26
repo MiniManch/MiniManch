@@ -16,7 +16,7 @@ Yb, `88       88           IP'`Yb IP'`Yb
 ### 🌊 Currently desgining a internal company informational website for 10Bis!
 ### 🏋️‍♂️ Working hard to master my Web Development skills via  *Developer_Institue_IL*
 
-<img height=2px src="manchester-united.png"/> **Supporter at heart ❤**
+<img height=20px src="manchester-united.png"/> **Supporter at heart ❤**
 
  <img align="center" src="2bl5.gif">
 
