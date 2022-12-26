@@ -17,7 +17,7 @@ Yb, `88       88           IP'`Yb IP'`Yb
 ### 🌊 Currently desgining a internal company informational website for 10Bis!
 ### 🏋️‍♂️ Working hard to master my Web Development skills via  *Developer_Institue_IL*
 
-<img height=50 src="https://img.icons8.com/external-flat-icons-inmotus-design/67/null/external-england-england-flat-icons-inmotus-design-2.png"/> **Supporter at heart ❤**
+<img height=20px src="https://img.icons8.com/external-flat-icons-inmotus-design/67/null/external-england-england-flat-icons-inmotus-design-2.png"/> **Supporter at heart ❤**
 
  <img align="center" src="2bl5.gif">
 
