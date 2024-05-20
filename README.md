@@ -14,7 +14,7 @@
                                                                               
  </pre>
 
-### 🌊 Currently desgining a internal company informational website for 10Bis!
+### 🌊 Currently working on several projects including a Portfolio website and a playlist Conversion website!
 ### 🏋️‍♂️ Working hard to master my Web Development skills via  *Developer_Institue_IL*
 
 <img height=30px src="manchester-united.png"/> **Supporter at heart ❤**
